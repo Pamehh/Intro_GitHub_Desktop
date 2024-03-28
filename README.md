@@ -5,5 +5,5 @@ Taller desarrollado por el **Google Developer student club de la Universidad de 
 
 ### Agregar imagen
 
-![Papeleria](img\IMG_20231207_020118.jpg)
+![Papeleria](img/IMG_20231207_020118.jpg)
 
